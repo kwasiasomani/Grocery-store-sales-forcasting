@@ -1,6 +1,7 @@
 # Grocery-store-sales-forcasting
 
 
+![Capture](https://user-images.githubusercontent.com/119458164/221288967-5ed65078-8920-4590-ba3b-e594f049b185.PNG)
 
 
 # Introduction
